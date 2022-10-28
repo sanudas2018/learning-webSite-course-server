@@ -1,0 +1,281 @@
+{
+  "success": true,
+  "data": [
+    {
+      "_id": "01",
+      "name": "HTML, CSS & Bootstrap, 3 Months Hand Holding Support",
+      "description": "3 Month, 30 Live Class, Class Duration(2-3 hours), 3 Class per week.",
+      "amount": "3000",
+      "time": "15/October/2022",
+      "liveClass": "30 Live Class",
+      "certificate": "After Complete all the class & Final exam and then Certificate.",
+      "phone": "Call 01889972995 / 01889972999 for more details.",
+      "image": "https://res.cloudinary.com/dwac7hlfp/image/upload/v1666810643/Online-Learning-website/1-html-css-course_asy6gl.png",
+      "modules": [
+        {
+          "_id": "618bb4b364be4d62d8cf5ce7",
+          "name": "Learn and Explore HTML as a Beginner"
+        },
+        {
+          "_id": "618bb4bd496c936303573dda",
+          "name": "Learn and Explore CSS as a Beginner"
+        },
+        {
+          "_id": "618bb4c564be4d62d8cf5ceb",
+          "name": "Git, source control, GitHub and hosting"
+        },
+        {
+          "_id": "618bb4cf496c936303573de6",
+          "name": "Build a beautiful and professional portfolio website"
+        },
+        {
+          "_id": "618bb4daf0505262b777252d",
+          "name": "Personal website, build a brand new website"
+        },
+        {
+          "_id": "618bb4e764be4d62d8cf5ced",
+          "name": "[Bonus] Box model, pseudo class, position"
+        }
+      ]
+    },
+    {
+      "_id": "02",
+      "name": "WordPress Fundamental, 3 Months Hand Holding Support",
+      "amount": "4000",
+      "time": "15/October/2022",
+      "liveClass": "40 Live Class",
+      "certificate": "After Complete all the class & Final exam and then Certificate.",
+      "phone": "Call 01889972995 / 01889972999 for more details.",
+      "description": "3 Months, 40 Live Classes, Class Duration(2-3 hours), 3 Classes per week.",
+      "image": "https://res.cloudinary.com/dwac7hlfp/image/upload/v1666810624/Online-Learning-website/2-Frame-1_qygfdr.png",
+      "modules": [
+        {
+          "_id": "618bb4b364be4d62d8cf5ce7",
+          "name": "Concept about web design & development. WordPress Installation at xampp & live server."
+        },
+        {
+          "_id": "618bb4bd496c936303573dda",
+          "name": "In-Depth Introduction & Usages Of WordPress Dashboard, Themes, Plugins."
+        },
+        {
+          "_id": "618bb4c564be4d62d8cf5ceb",
+          "name": "Basic Concept about Astra theme & Elementor plugin"
+        },
+        {
+          "_id": "618bb4cf496c936303573de6",
+          "name": "In-Depth Astra theme & Elementor plugin."
+        },
+        {
+          "_id": "618bb4daf0505262b777252d",
+          "name": "Build a full website from scratch with WP Bakery Page Builder"
+        },
+        {
+          "_id": "618bb4e764be4d62d8cf5ced",
+          "name": "Landing page requirements, Phlox pro premium theme"
+        }
+      ]
+    },
+
+    {
+      "_id": "03",
+      "name": "Advance WordPress, 3.5 Months Hand Holding Support",
+      "amount": "6000",
+      "time": "15/October/2022",
+      "liveClass": "40 Live Class",
+      "certificate": "After Complete all the class & Final exam and then Certificate.",
+      "phone": "Call 01889972995 / 01889972999 for more details.",
+      "description": "3.5 Months, 40 Live Classes, Class Duration(2-3 hours), 3 Classes per week.",
+      "image": "https://res.cloudinary.com/dwac7hlfp/image/upload/v1666810625/Online-Learning-website/3-Frame-9_lg0s6q.png",
+      "modules": [
+        {
+          "_id": "618bb54b845fb3630afa9791",
+          "name": "Introduction of eCommerce Website, Woocommerce plugin, Cart, Checkout, Payment gateways."
+        },
+        {
+          "_id": "618bb556c1be0e62de022d8e",
+          "name": "Woodmart premium theme & necessary plugins for eCommerce website, XT Woo Variation Swatches plugin."
+        },
+        {
+          "_id": "618bb55f25b37f6339b1efc2",
+          "name": "Build an eCommerce website with Woodmart premium theme, the mega menu for eCommerce."
+        },
+        {
+          "_id": "618bb568c1be0e62de022d93",
+          "name": "Build an eCommerce website with xStore premium theme, custom shop page design."
+        },
+        {
+          "_id": "618bb57125b37f6339b1efcf",
+          "name": "Booking & Appointment Website with YITH Booking Theme & Plugin."
+        },
+        {
+          "_id": "618bb57d25b37f6339b1efd6",
+          "name": "Build a full eCommerce website from scratch by Woodmart Premium theme."
+        },
+        {
+          "_id": "618bb586845fb3630afa9794",
+          "name": "Multi-vendor eCommerce Website with WCFM Premium Plugin."
+        }
+      ]
+    },
+    {
+      "_id": "04",
+      "name": "Advance JavaScript, 2 Months Hand Holding Support",
+      "amount": "6000",
+      "time": "15/October/2022",
+      "liveClass": "40 Live Class",
+      "certificate": "After Complete all the class & Final exam and then Certificate.",
+      "phone": "Call 01889972995 / 01889972999 for more details.",
+      "description": "2 Months, Learn JavaScript basic concepts. Explore simple problem solving, understand recursion and fundamental programming concepts",
+      "image": "https://res.cloudinary.com/dwac7hlfp/image/upload/v1666810625/Online-Learning-website/4-js-course_o42ghz.png",
+      "modules": [
+        {
+          "_id": "618bb59025b37f6339b1efe0",
+          "name": "Introduction to JavaScript"
+        },
+        {
+          "_id": "618bb59c25b37f6339b1efe3",
+          "name": " Fundamental Concepts Array and conditionals"
+        },
+        {
+          "_id": "618bb5b064be4d62d8cf5d36",
+          "name": "Concepts Recap and Loop"
+        },
+        {
+          "_id": "618bb5b864be4d62d8cf5d3a",
+          "name": "Core Concepts functions and objects"
+        },
+        {
+          "_id": "618bb5c064be4d62d8cf5d3b",
+          "name": "Apply Javascript Concepts"
+        },
+        {
+          "_id": "618bb5c925b37f6339b1efe4",
+          "name": "JS Concept Recap"
+        },
+        {
+          "_id": "618bb5d2845fb3630afa979e",
+          "name": "JavaScript Simple Coding Problems"
+        },
+        {
+          "_id": "618bb5ddf0505262b7772534",
+          "name": "More JS Coding Problems"
+        },
+        {
+          "_id": "618bb5e964be4d62d8cf5d48",
+          "name": "Practice Basic JavaScript "
+        },
+        {
+          "_id": "618bb5fb64be4d62d8cf5d50",
+          "name": "Assignment"
+        },
+        {
+          "_id": "618bb6037f4d79632cd3e02e",
+          "name": "Basic JavaScript Bonus Module"
+        }
+      ]
+    },
+
+    {
+      "_id": "05",
+      "name": "react crash course, 5 Months Hand Holding Support",
+      "amount": "8000",
+      "time": "15/October/2022",
+      "liveClass": "50 Live Class",
+      "certificate": "After Complete all the class & Final exam and then Certificate.",
+      "phone": "Call 01889972995 / 01889972999 for more details.",
+      "description": "5 Months,React Core concepts. Understanding Props, states, components. How React Works. Build Single Page Application using React.",
+      "image": "https://res.cloudinary.com/dwac7hlfp/image/upload/v1666810625/Online-Learning-website/5_izykje.png",
+      "modules": [
+        {
+          "_id": "618bb7287f4d79632cd3e055",
+          "name": "Module 44: Modern Front-end core concepts"
+        },
+        {
+          "_id": "618bb72e845fb3630afa97d2",
+          "name": "React Core Concepts, JSX, props, state"
+        },
+        {
+          "_id": "618bb7377f4d79632cd3e05c",
+          "name": " React Core Concept Recap and Practice day"
+        },
+        {
+          "_id": "618bb73e7f4d79632cd3e060",
+          "name": "Simple React Rest Countries "
+        },
+        {
+          "_id": "618bb7487f4d79632cd3e067",
+          "name": "(Conceptual) How React works"
+        },
+        {
+          "_id": "618bb750c1be0e62de022db7",
+          "name": "Practice and React Side things"
+        },
+        {
+          "_id": "618bb759496c936303573e5d",
+          "name": "Simple React SPA with simple e-commerce"
+        },
+        {
+          "_id": "618bb76225b37f6339b1f004",
+          "name": "(advanced) Save and searchable e-commerce"
+        },
+        {
+          "_id": "618bb76d64be4d62d8cf5d82",
+          "name": "Simple React Revision day"
+        },
+        {
+          "_id": "618bb77325b37f6339b1f00a",
+          "name": "React SPA Assignment 8"
+        },
+        {
+          "_id": "618bb77d25b37f6339b1f00e",
+          "name": "Simple React Bonus"
+        }
+      ]
+    },
+    {
+      "_id": "06",
+      "name": "Mastery With Fiverr Marketplace, 4 Months Hand Holding Support",
+      "amount": "3000",
+      "time": "15/October/2022",
+      "liveClass": "12 Live Class",
+      "certificate": "After Complete all the class & Final exam and then Certificate.",
+      "phone": "Call 01889972995 / 01889972999 for more details.",
+      "description": " Portfolio Website making & Review, Marketplace Research, Fiverr Account Making, Fiverr Gig Research & Making, Outside Marketplace Research, Marketplace Client Message Library, Fiverr & Upwork Quiz, Class material & Snippet, And 3-month full marketplace support.",
+      "image": "https://res.cloudinary.com/dwac7hlfp/image/upload/v1666810636/Online-Learning-website/6-Frame-10_bbnyay.png",
+      "modules": [
+        {
+          "_id": "618bb784845fb3630afa97db",
+          "name": "What is Freelancing Marketplace? ➣ Why Fiverr Marketplace? ➣ Pros & Cons of Fiverr Marketplace."
+        },
+        {
+          "_id": "618bb78bc1be0e62de022dc1",
+          "name": "Batch Wise Portfolio Item collecting & upload to personal Website ➣ Behance Account Creation & Portfolio Upload"
+        },
+        {
+          "_id": "618bb793845fb3630afa97e2",
+          "name": "Gig Research ➣ Sample Gig Ready In Google Docs."
+        },
+        {
+          "_id": "618bb79bc1be0e62de022dca",
+          "name": "Gig Image Creation ➣ Gig pdf Creation ➣ Gig Image SEO ➣ Gig Image tips & tricks"
+        },
+        {
+          "_id": "618bb7a3c1be0e62de022dcc",
+          "name": "Gig pdf Creation ➣ Gig Image SEO ➣ Gig Image tips & tricks."
+        },
+        {
+          "_id": "618bb7aa845fb3630afa97ea",
+          "name": "➣ Fiverr Profile Creation ➣ Fiverr Profile Setup ➣ Fiverr Free Course"
+        },
+        {
+          "_id": "618bb7b225b37f6339b1f012",
+          "name": "Gig Upload to profile ➣ Gig Activity Check ➣ Install Extension for Fiverr ➣ Desktop /"
+        },
+        {
+          "_id": "618bb7b8c1be0e62de022dcf",
+          "name": "How to start gig marketing ➣ Twitter Marketing ➣ Linkedin Marketing ➣ Pinterest Marketing"
+        }
+      ]
+    }
+  ]
+}
