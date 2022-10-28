@@ -17,9 +17,9 @@ app.get("/", (req, res) => {
 });
 
 // ALL API
-app.get("/courses", (req, res) => {
-  res.send(courses);
-});
+// app.get("/courses", (req, res) => {
+//   res.send(courses);
+// });
 
 // console api run
 app.listen(port, () => {
