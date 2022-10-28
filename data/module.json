@@ -2,7 +2,7 @@
   "success": true,
   "data": [
     {
-      "_id": "01",
+      "id": "01",
       "name": "HTML, CSS & Bootstrap, 3 Months Hand Holding Support",
       "description": "3 Month, 30 Live Class, Class Duration(2-3 hours), 3 Class per week.",
       "amount": "3000",
@@ -10,7 +10,7 @@
       "liveClass": "30 Live Class",
       "certificate": "After Complete all the class & Final exam and then Certificate.",
       "phone": "Call 01889972995 / 01889972999 for more details.",
-      "image": "https://res.cloudinary.com/dwac7hlfp/image/upload/v1666810643/Online-Learning-website/1-html-css-course_asy6gl.png",
+      "image": "https://res.cloudinary.com/dwac7hlfp/image/upload/v1666978987/Online-Learning-website/2-Frame-1_jdow9d.png",
       "modules": [
         {
           "_id": "618bb4b364be4d62d8cf5ce7",
@@ -39,7 +39,7 @@
       ]
     },
     {
-      "_id": "02",
+      "id": "02",
       "name": "WordPress Fundamental, 3 Months Hand Holding Support",
       "amount": "4000",
       "time": "15/October/2022",
@@ -77,7 +77,7 @@
     },
 
     {
-      "_id": "03",
+      "id": "03",
       "name": "Advance WordPress, 3.5 Months Hand Holding Support",
       "amount": "6000",
       "time": "15/October/2022",
@@ -118,7 +118,7 @@
       ]
     },
     {
-      "_id": "04",
+      "id": "04",
       "name": "Advance JavaScript, 2 Months Hand Holding Support",
       "amount": "6000",
       "time": "15/October/2022",
@@ -176,7 +176,7 @@
     },
 
     {
-      "_id": "05",
+      "id": "05",
       "name": "react crash course, 5 Months Hand Holding Support",
       "amount": "8000",
       "time": "15/October/2022",
@@ -233,7 +233,7 @@
       ]
     },
     {
-      "_id": "06",
+      "id": "06",
       "name": "Mastery With Fiverr Marketplace, 4 Months Hand Holding Support",
       "amount": "3000",
       "time": "15/October/2022",
